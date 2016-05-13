@@ -18,7 +18,7 @@
     """,
     'category': 'Sales Management',
     'version': '1.0',
-    'website': 'https://mbs-standoffs.com',
+    'website': 'https://github.com/travs-w',
     'author': 'Travis Waelbroeck',
     'depends': ['base','sale'],
     'data': [],
